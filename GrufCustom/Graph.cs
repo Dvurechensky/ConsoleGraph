@@ -1,4 +1,12 @@
-﻿using GraphCustomSearcher.Data;
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 00:57:53
+ * Version: 1.0.5
+ */
+
+using GraphCustomSearcher.Data;
 
 namespace GraphCustomSearcher;
 
