@@ -33,6 +33,9 @@ public class Graph
         Edges.AddRange(edges);
     }
 
+    /// <summary>
+    /// Перестройка видимости связей
+    /// </summary>
     public void RebuildEdge()
     {
         Path = string.Empty;
